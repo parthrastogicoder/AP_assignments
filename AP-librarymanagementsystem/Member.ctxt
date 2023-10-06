@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Member
+comment1.params=name\ age\ phoneNo
+comment1.target=Member(java.lang.String,\ int,\ long)
+comment10.params=book
+comment10.target=boolean\ hasBorrowedBook(Book)
+comment11.params=book
+comment11.target=boolean\ removeBorrowedBook(Book)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=
+comment4.target=long\ getPhoneNo()
+comment5.params=
+comment5.target=java.util.ArrayList\ getBorrowedBooks()
+comment6.params=
+comment6.target=long\ getFine()
+comment7.params=fine
+comment7.target=void\ setFine(long)
+comment8.params=book
+comment8.target=boolean\ canBorrowBook(Book)
+comment9.params=book
+comment9.target=boolean\ addBorrowedBook(Book)
+numComments=12
